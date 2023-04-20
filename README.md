@@ -1,41 +1,20 @@
 # leuke home projecten
 
 
-
-
-
-
 Maak een slimme deurbel met een Arduino: Gebruik een Arduino om een slimme deurbel te bouwen die je waarschuwt wanneer iemand aanbelt en beeld en geluid opneemt van de persoon die aanbelt.
-
 -
-
 Bouw een zelfrijdende robot met een Arduino: Gebruik een Arduino om een zelfrijdende robot te bouwen die obstakels kan detecteren en vermijden.
-
 -
-
 Maak een slim slot met een Raspberry Pi: Gebruik een Raspberry Pi om een slim slot te bouwen dat je op afstand kunt bedienen en waarmee je kunt zien wie er voor de deur staat.
-
-=
-
+-
 Bouw een slimme speaker met een Raspberry Pi: Gebruik een Raspberry Pi om een slimme speaker te bouwen die muziek kan afspelen, vragen kan beantwoorden en zelfs huisautomatiseringstaken kan uitvoeren.
-
-=
-
+-
 Maak een weerstation met een Arduino: Gebruik een Arduino om een weerstation te bouwen dat temperatuur, luchtvochtigheid en barometrische druk kan meten.
-
-=
-
+-
 Bouw een slim aquarium met een Raspberry Pi: Gebruik een Raspberry Pi om een slim aquarium te bouwen dat de waterkwaliteit bewaakt, de verlichting regelt en zelfs het voeren van de vissen kan automatiseren.
-
-=
-
+-
 Maak een slimme verlichtingssysteem met een Arduino: Gebruik een Arduino om een slimme verlichtingssysteem te bouwen dat kan worden bediend met je stem, een app of op een ingesteld schema.
-
-
-
-=
-
-
+-
 Een deurbel met optische zoemer zou een interessant project kunnen zijn! Hier is een algemeen idee van hoe je het zou kunnen bouwen:
 
 Materialen:
@@ -57,11 +36,7 @@ Bevestig de Arduino Uno en de batterij in een behuizing en sluit de deurbel aan 
 Zodra alles is geconfigureerd, zal de optische zoemer afgaan en het LED-lampje zal branden wanneer iemand op de deurbel drukt. Je kunt ook extra functies toevoegen, zoals het opnemen van een bericht of het sturen van een waarschuwing naar je telefoon wanneer de deurbel afgaat.
 
 Houd er rekening mee dat het bouwen van een deurbel met optische zoemer enige elektronische kennis vereist en dat het belangrijk is om voorzorgsmaatregelen te nemen bij het werken met elektriciteit. Veiligheid gaat altijd voor!
-
-
-=
-
-
+-
 Ja, er zijn verschillende manieren om meldingen of berichten weer te geven op een spiegel of intercom met scherm. Hier zijn enkele ideeën:
 
 Slimme spiegel: Je kunt een slimme spiegel maken met behulp van een Raspberry Pi en een tweezijdige spiegel. Door een scherm achter de spiegel te plaatsen, kun je meldingen en berichten weergeven op het scherm, terwijl je tegelijkertijd je spiegelbeeld ziet. Je kunt de Raspberry Pi programmeren om informatie van je telefoon of andere slimme apparaten te halen, zoals het weer, nieuws, agenda, enzovoort.
