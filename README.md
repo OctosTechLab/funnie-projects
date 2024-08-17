@@ -37,7 +37,7 @@ Zodra alles is geconfigureerd, zal de optische zoemer afgaan en het LED-lampje z
 
 Houd er rekening mee dat het bouwen van een deurbel met optische zoemer enige elektronische kennis vereist en dat het belangrijk is om voorzorgsmaatregelen te nemen bij het werken met elektriciteit. Veiligheid gaat altijd voor!
 -
-Ja, er zijn verschillende manieren om meldingen of berichten weer te geven op een spiegel of intercom met scherm. Hier zijn enkele ideeën:
+Er zijn verschillende manieren om meldingen of berichten weer te geven op een spiegel of intercom met scherm. Hier zijn enkele ideeën:
 
 Slimme spiegel: Je kunt een slimme spiegel maken met behulp van een Raspberry Pi en een tweezijdige spiegel. Door een scherm achter de spiegel te plaatsen, kun je meldingen en berichten weergeven op het scherm, terwijl je tegelijkertijd je spiegelbeeld ziet. Je kunt de Raspberry Pi programmeren om informatie van je telefoon of andere slimme apparaten te halen, zoals het weer, nieuws, agenda, enzovoort.
 
